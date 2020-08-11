@@ -1,0 +1,10 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+#homeImage {
+    background-image: url("/assets/home/perspective2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh
+}
