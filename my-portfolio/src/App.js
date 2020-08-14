@@ -19,7 +19,7 @@ function App() {
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/development" component={DesignGrid} />
           <Route exact path="/design" component={DevelopmentGrid} />
-          {/* add individual page routes below */}
+          {/* add individual page routes below? */}
           {/* <Route exact path="/WholeFoods" component={WholeFoods} /> */}
           <Route exact path="/contact" component={Contact} />
         </Switch>

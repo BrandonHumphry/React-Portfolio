@@ -11,8 +11,11 @@ function Home() {
   return (
     <div>
       <div id="homeImage"></div>
-      <div id="aboutMe"></div>
+      <div id="aboutMe">
+        <div>blocking space</div>
+      </div>
       <div id="endImage">
+        <div>blocking more space</div>
         <Button variant="contained" color="primary"><Link to="/portfolio">Portfolio</Link></Button> 
         <Button variant="contained" color="primary"><Link to="/contact">Contact</Link></Button> 
       </div>
